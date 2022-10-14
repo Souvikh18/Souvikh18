@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Souvikh18
+- 👋 Hi, I’m Souvik Hazra
 - 👀 I’m interested in Business Analytics
 - 🌱 I’m currently learning Bisiness Analytics & Advanced Market Research
 - 📫 How to reach me souvik.hazra@praxis.ac.in
